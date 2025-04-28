@@ -1,0 +1,26 @@
+body{
+    color: antiquewhite;
+    background-color: bisque;
+    font-size: 30px;
+   
+}
+.divform{
+    text-align:center ;
+    width:500px;
+    height:500px;
+    border:2px solid black;
+    position:relative;
+    top:100px;
+    left:600px;
+    background-color: rgb(71, 145, 189);
+}
+.buttondiv{
+    background-color:yellowgreen;
+    border-radius: 5px solid  ;
+    width:200px;
+    height:50px;
+    font-size: 40px;
+}
+p{
+    background-color:darksalmon
+}
